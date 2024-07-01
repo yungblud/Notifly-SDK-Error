@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "notifly-sdk": "^3.4.0",
     "react": "18.2.0",
     "react-native": "0.74.2"
   },
@@ -30,8 +31,8 @@
     "react-test-renderer": "18.2.0",
     "typescript": "5.0.4"
   },
+  "packageManager": "yarn@3.6.4",
   "engines": {
     "node": ">=18"
-  },
-  "packageManager": "yarn@3.6.4"
+  }
 }

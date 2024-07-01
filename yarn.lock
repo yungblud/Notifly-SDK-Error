@@ -3012,6 +3012,7 @@ __metadata:
     babel-jest: ^29.6.3
     eslint: ^8.19.0
     jest: ^29.6.3
+    notifly-sdk: ^3.4.0
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.74.2
@@ -7360,6 +7361,16 @@ __metadata:
   version: 3.0.0
   resolution: "normalize-path@npm:3.0.0"
   checksum: 88eeb4da891e10b1318c4b2476b6e2ecbeb5ff97d946815ffea7794c31a89017c70d7f34b3c2ebf23ef4e9fc9fb99f7dffe36da22011b5b5c6ffa34f4873ec20
+  languageName: node
+  linkType: hard
+
+"notifly-sdk@npm:^3.4.0":
+  version: 3.5.0
+  resolution: "notifly-sdk@npm:3.5.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: dc5d26b45d0595ade9486a47572ff58fe28054f85b00a84e9f2001eaa75736fbf80a1e5e13e2f7be6a2204561d1488c89ddacc6749c43b1933cddeb84cb7fa76
   languageName: node
   linkType: hard
 
